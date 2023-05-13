@@ -2,12 +2,13 @@
 <h3 align="center">I am a Robotics Engineer with a passion for Robotics, Mechatronics, Machine Learning, AI, and Quantum Robotics. I love exploring the intersection of these fields and leveraging technology to build intelligent and innovative solutions. My goal is to contribute to advancements in robotics and create machines that can perceive, learn, and adapt to their environment.</h3>
 
 <!-- Profile image and links -->
-<p>
-  <img src="https://media.giphy.com/media/3TdV1b87lcbv3SDoa3/giphy.gif" alt="Dancing Robot" width="300" align="left">
-  <span align="right">
-    <img src="https://komarev.com/ghpvc/?username=yeshwanthguru&label=Profile%20views&color=0e75b6&style=flat" alt="yeshwanthguru" />
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeshwanthguru" alt="yeshwanthguru" /></a>
-    <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/3TdV1b87lcbv3SDoa3/giphy.gif" alt="Dancing Robot" width="300">
+  <br>
+  <span>
+    <img src="https://komarev.com/ghpvc/?username=yeshwanthguru&label=Profile%20views&color=0e75b6&style=flat" alt="yeshwanthguru">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeshwanthguru" alt="yeshwanthguru"></a>
+    <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt=""></a>
   </span>
 </p>
 
@@ -15,6 +16,7 @@
 <p align="right">
   <a href="mailto:yeshwanth445@gmail.com">📫 yeshwanth445@gmail.com</a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
