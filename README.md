@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm guru</h1>
-<h3 align="center">I am a Robotics Engineer with a passion for Robotics, Mechatronics, Machine Learning, AI, and Quantum Robotics. I love exploring the intersection of these fields and leveraging technology to build intelligent and innovative solutions. My goal is to contribute to advancements in robotics and create machines that can perceive, learn, and adapt to their environment.</h3>
+<h3 align="center">I am a Robotics Engineer with a passion for Robotics, Mechatronics. I love exploring the intersection of these fields and leveraging technology to build intelligent and innovative solutions. My goal is to contribute to advancements in robotics and create machines that can perceive, learn, and adapt to their environment.</h3>
 
 <!-- Profile image and links -->
 <p align="center">
